@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Full-Stack E-Commerce Website project! This project is a complete e-commerce platform developed using Angular for the frontend and Java Spring Boot for the backend. It incorporates the Stripe API for secure credit card payments, shopping cart functionality, and seamless integration between frontend and backend components.
+This project is a complete e-commerce platform developed using Angular for the frontend and Java Spring Boot for the backend. It incorporates the Stripe API for secure credit card payments, shopping cart functionality, and seamless integration between frontend and backend components.
 
 ## Features
 
